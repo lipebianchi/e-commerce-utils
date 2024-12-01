@@ -36,7 +36,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 1. Clone o repositório e entre na pasta:
 
 ``` bash
-    git clone https://github.com/lipebianchi/E-commerce-Utils.git
+    git clone https://github.com/lipebianchi/e-commerce-utils.git
     cd E-commerce-Utils
 ```
 
