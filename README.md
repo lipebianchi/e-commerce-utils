@@ -37,7 +37,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 
 ``` bash
     git clone https://github.com/lipebianchi/e-commerce-utils.git
-    cd E-commerce-Utils
+    cd e-commerce-utils
 ```
 
 2. Instalando as dependencias:
